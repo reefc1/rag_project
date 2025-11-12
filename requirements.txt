@@ -1,0 +1,8 @@
+crewai==1.4.1
+crewai-tools
+transformers
+torch
+tavily-python
+langchain-community
+faiss-cpu
+fpdf
